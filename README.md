@@ -40,7 +40,7 @@ _Potable Pandas_ -> _Which acts like python `pandas` - module and works like pyt
 By simple code.
 ![demo](img/code.png)
 Output :
-![demo](img/demo.png)
+![demo](img/Demo.png)
 
 ```python
 from main import mergeData
